@@ -2,6 +2,8 @@
 
 React Essentials project covering functional react components, props, forwarding props, fragment and handling states using useState react hook for building interactive web applications
 
+<img src="/screenshot.png">
+
 ### Credits
 
 This project is inspired by the course [
